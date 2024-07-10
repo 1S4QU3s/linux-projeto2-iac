@@ -3,7 +3,22 @@
 <h2>Sobre</h2>
 <p>Projeto de linux onde foi criado um script para ser provisionado um servidor web automaticamente </p>
 
-![script linux servidorApache](https://github.com/1S4QU3s/linux-projeto2-iac/assets/159395767/232cb5d2-c52d-4cff-9e26-43f78be9c23f)
+## Primeiro Passo:
+# Após ter baixado o "script-iac2.sh" em seu linux, execute os seguintes comandos:
+
+* chmod +x scrip-iac2.sh (Para tornar o script executável)
+* ./script-iac2.sh (Para executar o script)
+
+![script linux servidorApache](https://github.com/1S4QU3s/linux-projeto2-iac/assets/159395767/6201a055-bfac-4352-a64e-3ec9392296eb)
+
+## Segundo Passo:
+ 
+* Execute no terminal o comando " ip a "
+* Copie o ip e cole no navegador
+
+![pagina web](https://github.com/1S4QU3s/linux-projeto2-iac/assets/159395767/26cd0d2a-c204-4a56-a6b4-4421fc6730b3)
+
+
 
 
 
