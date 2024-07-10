@@ -1,7 +1,7 @@
 <h1>Projeto2 IaC Linux</h1>
 
 <h2>Sobre</h2>
-<p>Projeto de linux onde foi criado um script para ser provisionado um servidor web automaticamente </p>
+<p>Projeto de Script para provisionamento de um servidor web automaticamente, criado no curso de Linux Fundamentals da DIO. </p>
 
 ## Primeiro Passo:
 # Após ter baixado o "script-iac2.sh" em seu linux, execute os seguintes comandos:
